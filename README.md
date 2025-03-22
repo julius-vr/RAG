@@ -29,7 +29,7 @@ Supported features include:
 
    ```bash
    git clone https://github.com/julius-vr/RAG.git
-   cd rag_app_demo
+   cd RAG
    ```
 
 2. **Create and activate a virtual environment:**
