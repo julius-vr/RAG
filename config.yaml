@@ -1,0 +1,13 @@
+# Configurations for the RAG system
+data_path: "data"
+cache_path: "cache/retriever_cache"
+rebuild_index: false
+
+# Models and generation parameters
+embedding_model_name: "all-MiniLM-L12-v2"
+generation_model_name: "google/flan-t5-large"
+max_tokens: 200
+
+# Logging configuration
+logging:
+  level: "INFO"
